@@ -7,10 +7,10 @@
 	<name>TCC Parent</name>
 	
 	<modules>
-		<module>../web2-domain</module>
+		<!-- <module>../web2-domain</module>
 		<module>../web2-model</module>
 		<module>../web2-services</module>
-		<module>../web2-web</module>
+		<module>../web2-web</module> -->
 		<module>../web2-client</module>
 	</modules>
 	
